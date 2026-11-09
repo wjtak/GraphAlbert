@@ -2,7 +2,6 @@
 
 **A graph analysis of winning wallets on Polymarket’s 2026 US–Iran markets**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/polymarket_iran_graph_analysis.ipynb)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![NetworkX](https://img.shields.io/badge/graphs-NetworkX-orange)
 
@@ -59,35 +58,31 @@ All data is public and no API key is required with the default settings.
 
 ## Repository structure
 
-```
-.
-├── polymarket_iran_graph_analysis.ipynb   # main notebook
-├── README.md
-└── results/                               # exported outputs (optional)
-    ├── winners_ranked.csv
-    ├── winner_clusters.csv
-    ├── redistribution_flows.csv
-    ├── communities.csv
-    └── money_flow_graph.graphml
-```
+The repository contains the main Jupyter notebook and this README. When the notebook runs, it exports its results:
 
-Adapt this tree to the actual content of the repository.
+| Output | Content |
+|---|---|
+| `winners_ranked.csv` | Winners with their profit, signals and suspicion score |
+| `winner_clusters.csv` | Clusters of linked winners |
+| `redistribution_flows.csv` | Transfers sent by winners to related wallets after resolution |
+| `communities.csv` | Louvain communities and their winners |
+| `money_flow_graph.graphml` | The money-flow graph, readable by NetworkX or Gephi |
 
 ## Getting started
 
 ### Run on Google Colab (recommended)
 
-1. Click the **Open in Colab** badge above.
+1. Go to [Google Colab](https://colab.research.google.com), choose **File → Open notebook → GitHub**, paste the URL of this repository and select the notebook. You can also download the `.ipynb` file and upload it in Colab.
 2. Run the cells from top to bottom.
 3. The export cell saves results to `/content/drive/MyDrive/graph_results/`, so Colab will ask for access to your Google Drive. Change the paths in section 5.3 if you prefer to save locally.
 
 ### Run locally
 
+Download or clone this repository (green **Code** button on GitHub), then install the dependencies and open the notebook:
+
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
 pip install networkx pandas numpy scipy scikit-learn matplotlib requests jupyter
-jupyter notebook polymarket_iran_graph_analysis.ipynb
+jupyter notebook
 ```
 
 When running locally, remove or skip the Google Drive mount (`from google.colab import drive`) and update the export paths.
