@@ -1,0 +1,1522 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="count" attr.type="long"/>
+<key id="d0" for="edge" attr.name="amount" attr.type="double"/>
+<graph edgedefault="directed"><node id="0x000d257d2dc7616feaef4ae0f14600fdf50a758e"/>
+<node id="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb"/>
+<node id="0x0a854897a06d4999e5b2dde5693609f1428ffe9d"/>
+<node id="0xd36ec33c8bed5a9f7b6630855f1533455b98a418"/>
+<node id="0x0d05b729b369f742a3b47b1312de4424ad396a81"/>
+<node id="0x4923b7e2a487560b919a99fafc61fe0769b2adfc"/>
+<node id="0x122cdd9db64fd8dc3ebab813218e3effe21f821f"/>
+<node id="0x13ff290849c6fef06efde63dfe643e62767716a3"/>
+<node id="0x1fa1be3eab546e06e4290839bf4c1d7abfbf1fa9"/>
+<node id="0x22e4248bdb066f65c9f11cd66cdd3719a28eef1c"/>
+<node id="0x24c8cf69a0e0a17eee21f69d29752bfa32e823e1"/>
+<node id="0x274c45994bfa0912cf8bee503190952e6af7da86"/>
+<node id="0x35bbbad2415fe5e39b12da9a316cdc80b022009b"/>
+<node id="0x08458f7e9d2858027de579e4c3ca305475496b6f"/>
+<node id="0x088ffbbc6f2c0b3839d2832e75f37e1bcecbc9e7"/>
+<node id="0x2a3e6f107c6b960d5134ee98c341f188fad5c051"/>
+<node id="0x3939a40d370cfde2bc41fcb9f427d91179886d6c"/>
+<node id="0x401ee31e9ebf9ab9f6315cd95faca5f950436fc9"/>
+<node id="0x419f32f30814030554f5df3e9f508ad7394ce853"/>
+<node id="0x44a1159b925c145e70f746bb3f0f58380553bd21"/>
+<node id="0x62fc12bb044e67a694f727eb4307a7a9652ae784"/>
+<node id="0x6d9fc316c3b8377060a44b852ba664adbfd59790"/>
+<node id="0x6e9a6afde1e8bd4a0c7bf2809cf87fe14c00f3bb"/>
+<node id="0x9d5e5f4ef1da8a652ea3696b19fdc089bd2c3921"/>
+<node id="0xd8d5289c35124b5353f5a10a28b8cc29aec38935"/>
+<node id="0x43372356634781eea88d61bbdd7824cdce958882"/>
+<node id="0xdaef2be2a19ad331737d06545f85615b094554e9"/>
+<node id="0x448861155279dbf833d041b963e3ac854599e319"/>
+<node id="0x375191b48ef5761e0c621b8e4a5374e964937dfd"/>
+<node id="0xf2f6af4f27ec2dcf4072095ab804016e14cd5817"/>
+<node id="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1"/>
+<node id="0x0418f8303054fb4321d5619cb53ad4e3febd966e"/>
+<node id="0x33e27ac64a453337cfcea8345c705a407c573a1b"/>
+<node id="0x7bc14171ccb0d3e6bac219ec6a76211826e28db4"/>
+<node id="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b"/>
+<node id="0x955c9661bf6e010beff0ba896a49f715a8c8990f"/>
+<node id="0x9a3fa403a6666eef75f92f181fcf13f9c051914a"/>
+<node id="0x9aeb534c42b58b21673d5e03e9da14fbd15b2729"/>
+<node id="0xb37aa8834f9baefc6fb3312f59df8ddf0348f1b1"/>
+<node id="0xbacd00c9080a82ded56f504ee8810af732b0ab35"/>
+<node id="0xc4086b708cd3a50880b7069add1a1a80000f4675"/>
+<node id="0xd77596f6652d6ad3502b34e5a848a0f6b7340fa9"/>
+<node id="0xdca4af75705dbb50f62437045aff9921947917d2"/>
+<node id="0xe5a6766cc93f1ff94788afc82ebd0a3cdcda0a76"/>
+<node id="0x53e55bc7cb3d67ad177c023ce891ad076a9d6177"/>
+<node id="0x54e2b86bc5ce72f6c39797f5e2aa734cbe0034fb"/>
+<node id="0x6139c42e48cf190e67a0a85d492413b499336b7a"/>
+<node id="0x1e1f17412069c0736adfaadf8ee7f46e5612c855"/>
+<node id="0x551e72eda42a5ab39d6d78239a1d9bbb5db6b0e0"/>
+<node id="0x68b67b9578d5eab17663414f6919772882ea7cd7"/>
+<node id="0x8f7a4b414417911e7e9bd738399874792cdbdb40"/>
+<node id="0xb7606d0d3719c88f9b868a13015881af5222ccd7"/>
+<node id="0xd3989ba133ab48b5b3a81e3dba9b37b5966a46d7"/>
+<node id="0xe234959595e01dacd391a9502a6ad0edf4e3304a"/>
+<node id="0xe25b9180f5687aa85bd94ee309bb72a464320f1b"/>
+<node id="0x614dc8d3542c12103d2c6a3553fd761e391d1546"/>
+<node id="0x14c32680ffc318892e0d019181e4161aa34cdf68"/>
+<node id="0x30e443872ddf63b2908a49f92cd690c304a55102"/>
+<node id="0x449c7483aade15b5c4772fab7becc60a1c20879e"/>
+<node id="0xdd225a03cd7ed89e3931906c67c75ab31cf89ef1"/>
+<node id="0xf3e8486c74462f2a1c1cc405eda631d0d80d5f3f"/>
+<node id="0x69aa9fa621403e3a121b29ad77d32ba9eb5e8847"/>
+<node id="0x6a8328b1ae11569f7b27600073558879885e4c59"/>
+<node id="0x6bab41a0dc40d6dd4c1a915b8c01969479fd1292"/>
+<node id="0x029c862cfa39215ec3001013294e580fec540ad8"/>
+<node id="0x6e131d6c61216b4a5ec571db332ad3226e7fa801"/>
+<node id="0x6575759174ad221bba9947bc3f18750ec769b198"/>
+<node id="0x9a97759ce181d103b49bb7f77640a83afe3d3c43"/>
+<node id="0xea837d5472f73559fcb68423e5444df247a05c8f"/>
+<node id="0x776f7fb93be970d678068e00674b54af0ff10478"/>
+<node id="0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991"/>
+<node id="0x06dc51826bc524d9a83770e7de9dd7e005b04524"/>
+<node id="0xc9b6227a295985591fe576ff2e054267a78a9b6a"/>
+<node id="0x25a74e4d0795b842a4e8e934620781e3c5f48b7c"/>
+<node id="0x583e1ca6fa0b93201a771e09f223bfe4c8071d4b"/>
+<node id="0x7b259edf41df29db6916f9c0fdd672ddc334e4be"/>
+<node id="0xa4547804287f62310f2e14403b24222778c895a6"/>
+<node id="0xc851cd9bee7d262afd78674f861f9f576a12cd2a"/>
+<node id="0xd0394bd0de8d901c3fde039a86bf08e6aa4a2532"/>
+<node id="0xf0d5eb1cbe7350f1f896ade6c172e6700414c665"/>
+<node id="0xf44076b9299b390a1f4bd5979d926ce989aeb009"/>
+<node id="0x7cf93583951552553bc0d243a8582a3410ed2798"/>
+<node id="0x5188fa0e8a77e87bc6a58e6781fdfc4e165cc804"/>
+<node id="0x7e97bd09c2ccc632fb728d91b7c37d8ec5f34d54"/>
+<node id="0x8b4bca1d794779e66e023d44391b2a86c5ab541b"/>
+<node id="0x8f42ae0a01c0383c7ca8bd060b86a645ee74b88f"/>
+<node id="0x93fb8127a1b21a112b11af936361225df0563e4a"/>
+<node id="0x96489abcb9f583d6835c8ef95ffc923d05a86825"/>
+<node id="0x9c2617462567859fcf5764e03b9a687ebca274bc"/>
+<node id="0x0260366a9add43c25d4f4d35d2210526c6750d88"/>
+<node id="0x9efda3d6354152901fc4706c3b1a9ce50b45ad00"/>
+<node id="0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73"/>
+<node id="0x52b74441def3510e1839eadac7875423c0b54597"/>
+<node id="0xb8e4a4551d2c6b080ae5a523ff1f0cae8e922dae"/>
+<node id="0xd04b865de910bf80e346b1cc4e4f37e61e389972"/>
+<node id="0xc6dd722558dbfbd8fa780efcbe819ed8c6604b9f"/>
+<node id="0xc8a6d6b4f5d66a1211ed678edb828acca25c5d97"/>
+<node id="0xd5ccdf772f795547e299de57f47966e24de8dea4"/>
+<node id="0xd7eee5e918dc59fa32386a4ad8a89655946e9597"/>
+<node id="0xdbade4c82fb72780a0db9a38f821d8671aba9c95"/>
+<node id="0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5"/>
+<node id="0x45166d6dee918955495ef5e493742f47d6e404de"/>
+<node id="0x7923d4ff806b231b3276592391de5d0953356c0b"/>
+<node id="0x944c0a0d5272f0f9a565dd0c9a270e16d5a39e26"/>
+<node id="0xdde15ebd95330ce69136dc0ccd810d22382e02c5"/>
+<node id="0x4c8cdcdd4c92bf44e74a642254f7414de14de36f"/>
+<node id="0xfc2f4f50ce2f6045d35558a5e2d8d4b2ac6610c7"/>
+<node id="0x03c8118da338a9dafb2bae9a4e89055203a30e01"/>
+<node id="0xc8ab97a9089a9ff7e6ef0688e6e591a066946418"/>
+<node id="0x095dcfb123a4bc035ee6b0d624bab0cc964352cf"/>
+<node id="0x0c6b6a9da69f3ca578d4b01d2cc1714ec9b97ffb"/>
+<node id="0x0e4434c1e3d4b252769f67d32c25854c1c9ec2ef"/>
+<node id="0x1cc16713196d456f86fa9c7387dd326a7f73b8df"/>
+<node id="0x12d6cccfc7470a3f4bafc53599a4779cbf2cf2a8"/>
+<node id="0xebc6257296364265b17cb6e2d605c66d14fdd45f"/>
+<node id="0x13eefade4507b6fc929639ae3f9d7b925cfd79b4"/>
+<node id="0xbb9c165825e9f233d1f611b50b193fe94513072b"/>
+<node id="0xcb59ea1babf3b26ea50088057e427ab0ed8f0a22"/>
+<node id="0x1c0f3e4c90a48e4dd93d0abcdf719a5a5f1599d0"/>
+<node id="0x1dd197fa8bb4d6887ffecf89b75171aea7d7a156"/>
+<node id="0x23d81ba9371e576015c1e562db09c689f56b0288"/>
+<node id="0x2974bd0059e48f215c391882976e0f1b4c8c9c23"/>
+<node id="0x32658d61f095d603fa7f8ea57799d392131334c3"/>
+<node id="0x33e073440d9ac43e2e190e910f0b02b2fbd17d46"/>
+<node id="0xcf19c420814435ffb1c459588208ed23a7ee6402"/>
+<node id="0x38692cead875c0cd862052efbff8f6add7310e3c"/>
+<node id="0x386cc4344f27de9eb038715221cec66e62d18323"/>
+<node id="0x37da37704ee0c147800918a0838846cde88d9e54"/>
+<node id="0xbb29dc16e284e25bfecdce14fb69621224611b48"/>
+<node id="0xc189a338d6718f84a3e2c00619945fded3c3d77a"/>
+<node id="0xf01ac1aa9fef8eabc5e3c764747aabddaa90f231"/>
+<node id="0x38f50488b14a87769e0c5cd6c514b6c2e8ec6824"/>
+<node id="0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1"/>
+<node id="0x9453a389c73df7991249d9f2c6e2c854157b1a48"/>
+<node id="0xc3ff873a442f65dd9a55ee1bd6a83060957c9708"/>
+<node id="0x41670eaf54980d4a52fd0985d6eb78854d0ac504"/>
+<node id="0xdc03d611e5bcc9f1c87edb95edeb91671471804c"/>
+<node id="0xeb22f4735df6bd5d14e1b5fd10faefa7757d808a"/>
+<node id="0x45b39e1f71e47fd4afe4b988ffad690b644735bc"/>
+<node id="0x477fcd39c75956843c18083caa4c8c61f9ca6c45"/>
+<node id="0x0562e01b3c3e65bb93bf0de32f02cec238a79d66"/>
+<node id="0x525e4f0520927d26b90e8cf922b626f655c3c78d"/>
+<node id="0x54b56146656e7eef9da02b3a030c18e06e924b31"/>
+<node id="0x55f0ef535c17bf453f1780ca6699ca4bb39aad23"/>
+<node id="0x5d059ab2724308b565e23c1643e6c8e90ad7599a"/>
+<node id="0x5e4e809c464a2bc2cb4c9f54752d1d69821c32a5"/>
+<node id="0x608532073e9727f4b442204ebf6fc6de3b5c4219"/>
+<node id="0x60a92c8620846d81f5ea17b0564e0d4b7c545a71"/>
+<node id="0x614ef98a8be021de3a974942b2fb98794ff34f1b"/>
+<node id="0x9d84ce0306f8551e02efef1680475fc0f1dc1344"/>
+<node id="0x1c144e30f405a25f991cbd8baa15d40599090869"/>
+<node id="0x6ffb4354cbe6e0f9989e3b55564ec5fb8646a834"/>
+<node id="0x7523cafcee7bcf2db9a79d80e0d79b88a9a54c4c"/>
+<node id="0x7744bfd749a70020d16a1fcbac1d064761c9999e"/>
+<node id="0x77c344e1715c35d1424881c14e5a9f6911dd00c8"/>
+<node id="0x7a340436166830a5dbfeed44228c56eca46b5ed3"/>
+<node id="0x7c4643f6c24296e877917a67f3de5c92c633bc6c"/>
+<node id="0x7ebf59f3a63072d03095c93640c6fd5c90ceafe2"/>
+<node id="0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e"/>
+<node id="0x88c4919de76e526d55a32c1f8afb439dd1f1129a"/>
+<node id="0x8993bd462cc4a367f921dc67b52f03e6eb3a9eb5"/>
+<node id="0x95074f700f93bdf6e62fc965e0832064c0877b04"/>
+<node id="0x957a8396601e606130d63d7c5adec1e4dd58d6a6"/>
+<node id="0x99518fa0d201e7542ea2b852809da5a5c8d811bd"/>
+<node id="0x9b979a065641e8cfde3022a30ed2d9415cf55e12"/>
+<node id="0x9c9fe391bf7ba8701bc97c9e561a46cbce11e2d2"/>
+<node id="0x9dcb4e22cfffe401891895c45f595ebdcb07469f"/>
+<node id="0x9f3d8008e0cfdd4c997106deaa1416ef5abf935e"/>
+<node id="0xa3a39a3746dbd55f3a33ae38bd27ae2804c2c2f9"/>
+<node id="0xaaf63b10e1c47187c51eefe3b99c88e64dbb0be1"/>
+<node id="0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9"/>
+<node id="0x2d99e29c4f066ba32098c65e4c7454b277d94ca3"/>
+<node id="0xae7c98235d5dc797edfa3d3af2e0334238a4487e"/>
+<node id="0xaffcd463db3ce9bafdcd4d74abe3f9f937a5ddce"/>
+<node id="0xbad457dc633bbb7b6cbe09dd5867a5e8e597acd7"/>
+<node id="0xb10047d6a254b2ebb306d7a7d13bf59171ab6461"/>
+<node id="0xb73812cce6f5cb7ada40a134b4b16aefbdbb9472"/>
+<node id="0xbfe26bf8a5141d1a156e5bc4dc853dee60dbfdb4"/>
+<node id="0xc02147dee42356b7a4edbb1c35ac4ffa95f61fa8"/>
+<node id="0xc11cb040591b24de8d8d31939b16c96b04f74139"/>
+<node id="0xc4d1a863e9cc45d02ba22d3a1ae9ba7822018ce8"/>
+<node id="0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"/>
+<node id="0xc9751b5f25e1ecd88ec4630d19422b58d0562c68"/>
+<node id="0xcc588241676899adcacd6703290258dcd771ecfb"/>
+<node id="0xcdbfdac42aeac5837d105e255c1131e7bf751926"/>
+<node id="0xd043d8bdca05c5f9ecdf75df3c6681ac74ca7e85"/>
+<node id="0xd152f549545093347a162dce210e7293f1452150"/>
+<node id="0x1cfc260bfa2b5ae89377863180ca3b4f5c862111"/>
+<node id="0x21ffd2b7a212a6f277ed3eca1a9f8efcbca90d71"/>
+<node id="0x3825180182703613f3619d4611890c5b655504e8"/>
+<node id="0x40604cb1f958c03bea0b18aa43e4cb0d62f33ec3"/>
+<node id="0x5a218c7ad04135830a45c41aaed7294df7809318"/>
+<node id="0x5e5175106a7dbbd92b10f1b56458fc8c1bdd42ce"/>
+<node id="0x68c24bf4a8ad4d79a6fe4b8eec6f93a02dfd1711"/>
+<node id="0x7e30c3a56d89edac738d788dd218a9e64fb91e50"/>
+<node id="0x94eb0ee9ff35f5b14f8d3c3be3967e9deba837e6"/>
+<node id="0xc97b0b2a2547bb3ed57167092ef8a6e816c347e5"/>
+<node id="0xecb14ac6e9ca447ce2f2912e6217b43d7b655da3"/>
+<node id="0xd1acd3925d895de9aec98ff95f3a30c5279d08d5"/>
+<node id="0xd1c769317bd15de7768a70d0214cf0bbcc531d2b"/>
+<node id="0xd5196bdf50199e195c58a6aff2114cc0e455932c"/>
+<node id="0xdaa6a2cd4ba545befb3dbdc25d2b444c46873e62"/>
+<node id="0xed107a85a4585a381e48c7f7ca4144909e7dd2e5"/>
+<node id="0xf1149da31539d059bd6b87fdddc34d92352e8003"/>
+<node id="0xf1f9a438f2697381b4ac8eb283d6f4dd772d1245"/>
+<node id="0xf2507f0c47223def84aedfb6a81d83a3b43187cb"/>
+<node id="0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"/>
+<node id="0xf68a281980f8c13828e84e147e3822381d6e5b1b"/>
+<node id="0xf70da97812cb96acdf810712aa562db8dfa3dbef"/>
+<node id="0xf916c360cf539d1da45aebbb057e2a5ea8244a5f"/>
+<node id="0xfa5f246bb1dbfe039dc7f4d3eede0d9808a86bfe"/>
+<node id="0xfd22b8843ae03a33a8a4c5e39ef1e5ff33ebad91"/>
+<node id="0xff7ca9cd180d33119e653e3eb50555a3e2ccb233"/>
+<node id="0xfffadf38a520cd5a0035ff52d7fceb436a08864b"/>
+<edge source="0x000d257d2dc7616feaef4ae0f14600fdf50a758e" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">1062809.655206</data>
+  <data key="d1">16</data>
+</edge>
+<edge source="0x0a854897a06d4999e5b2dde5693609f1428ffe9d" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">5189.303288</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x0a854897a06d4999e5b2dde5693609f1428ffe9d" target="0xd36ec33c8bed5a9f7b6630855f1533455b98a418">
+  <data key="d0">56481.289683</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xd36ec33c8bed5a9f7b6630855f1533455b98a418" target="0x095dcfb123a4bc035ee6b0d624bab0cc964352cf">
+  <data key="d0">0.99987</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd36ec33c8bed5a9f7b6630855f1533455b98a418" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">46993.967362</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0xd36ec33c8bed5a9f7b6630855f1533455b98a418" target="0x6139c42e48cf190e67a0a85d492413b499336b7a">
+  <data key="d0">14774.092568</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd36ec33c8bed5a9f7b6630855f1533455b98a418" target="0xc6dd722558dbfbd8fa780efcbe819ed8c6604b9f">
+  <data key="d0">81.986056</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x0d05b729b369f742a3b47b1312de4424ad396a81" target="0x4923b7e2a487560b919a99fafc61fe0769b2adfc">
+  <data key="d0">2704.84</data>
+  <data key="d1">18</data>
+</edge>
+<edge source="0x0d05b729b369f742a3b47b1312de4424ad396a81" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">403.81600000000003</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="0x122cdd9db64fd8dc3ebab813218e3effe21f821f" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">15500.0</data>
+  <data key="d1">10</data>
+</edge>
+<edge source="0x13ff290849c6fef06efde63dfe643e62767716a3" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">23235.179834</data>
+  <data key="d1">7</data>
+</edge>
+<edge source="0x1fa1be3eab546e06e4290839bf4c1d7abfbf1fa9" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">3848.82278</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0x22e4248bdb066f65c9f11cd66cdd3719a28eef1c" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">268796.742994</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0x24c8cf69a0e0a17eee21f69d29752bfa32e823e1" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">699762.169991</data>
+  <data key="d1">6</data>
+</edge>
+<edge source="0x274c45994bfa0912cf8bee503190952e6af7da86" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">17750.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x35bbbad2415fe5e39b12da9a316cdc80b022009b" target="0x08458f7e9d2858027de579e4c3ca305475496b6f">
+  <data key="d0">1800.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x35bbbad2415fe5e39b12da9a316cdc80b022009b" target="0x088ffbbc6f2c0b3839d2832e75f37e1bcecbc9e7">
+  <data key="d0">100.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x35bbbad2415fe5e39b12da9a316cdc80b022009b" target="0x2a3e6f107c6b960d5134ee98c341f188fad5c051">
+  <data key="d0">2500.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x35bbbad2415fe5e39b12da9a316cdc80b022009b" target="0x3939a40d370cfde2bc41fcb9f427d91179886d6c">
+  <data key="d0">47.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x35bbbad2415fe5e39b12da9a316cdc80b022009b" target="0x401ee31e9ebf9ab9f6315cd95faca5f950436fc9">
+  <data key="d0">304.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x35bbbad2415fe5e39b12da9a316cdc80b022009b" target="0x419f32f30814030554f5df3e9f508ad7394ce853">
+  <data key="d0">50.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x35bbbad2415fe5e39b12da9a316cdc80b022009b" target="0x44a1159b925c145e70f746bb3f0f58380553bd21">
+  <data key="d0">4164.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x35bbbad2415fe5e39b12da9a316cdc80b022009b" target="0x62fc12bb044e67a694f727eb4307a7a9652ae784">
+  <data key="d0">500.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x35bbbad2415fe5e39b12da9a316cdc80b022009b" target="0x6d9fc316c3b8377060a44b852ba664adbfd59790">
+  <data key="d0">0.02</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x35bbbad2415fe5e39b12da9a316cdc80b022009b" target="0x6e9a6afde1e8bd4a0c7bf2809cf87fe14c00f3bb">
+  <data key="d0">0.01</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x35bbbad2415fe5e39b12da9a316cdc80b022009b" target="0x9d5e5f4ef1da8a652ea3696b19fdc089bd2c3921">
+  <data key="d0">100.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x35bbbad2415fe5e39b12da9a316cdc80b022009b" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">122500.800955</data>
+  <data key="d1">40</data>
+</edge>
+<edge source="0x35bbbad2415fe5e39b12da9a316cdc80b022009b" target="0xd8d5289c35124b5353f5a10a28b8cc29aec38935">
+  <data key="d0">41871.0</data>
+  <data key="d1">7</data>
+</edge>
+<edge source="0x08458f7e9d2858027de579e4c3ca305475496b6f" target="0x614dc8d3542c12103d2c6a3553fd761e391d1546">
+  <data key="d0">2440.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x08458f7e9d2858027de579e4c3ca305475496b6f" target="0x8f42ae0a01c0383c7ca8bd060b86a645ee74b88f">
+  <data key="d0">244.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x2a3e6f107c6b960d5134ee98c341f188fad5c051" target="0x35bbbad2415fe5e39b12da9a316cdc80b022009b">
+  <data key="d0">21.42</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x401ee31e9ebf9ab9f6315cd95faca5f950436fc9" target="0x35bbbad2415fe5e39b12da9a316cdc80b022009b">
+  <data key="d0">100.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x401ee31e9ebf9ab9f6315cd95faca5f950436fc9" target="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b">
+  <data key="d0">1095.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x419f32f30814030554f5df3e9f508ad7394ce853" target="0x35bbbad2415fe5e39b12da9a316cdc80b022009b">
+  <data key="d0">50.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x6d9fc316c3b8377060a44b852ba664adbfd59790" target="0x33e27ac64a453337cfcea8345c705a407c573a1b">
+  <data key="d0">75.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x6d9fc316c3b8377060a44b852ba664adbfd59790" target="0x6575759174ad221bba9947bc3f18750ec769b198">
+  <data key="d0">70.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x6d9fc316c3b8377060a44b852ba664adbfd59790" target="0x9a97759ce181d103b49bb7f77640a83afe3d3c43">
+  <data key="d0">500.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x6d9fc316c3b8377060a44b852ba664adbfd59790" target="0x9d5e5f4ef1da8a652ea3696b19fdc089bd2c3921">
+  <data key="d0">10.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x6d9fc316c3b8377060a44b852ba664adbfd59790" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">30000.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x6d9fc316c3b8377060a44b852ba664adbfd59790" target="0xdca4af75705dbb50f62437045aff9921947917d2">
+  <data key="d0">51314.978533</data>
+  <data key="d1">13</data>
+</edge>
+<edge source="0x6d9fc316c3b8377060a44b852ba664adbfd59790" target="0xea837d5472f73559fcb68423e5444df247a05c8f">
+  <data key="d0">1000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x9d5e5f4ef1da8a652ea3696b19fdc089bd2c3921" target="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b">
+  <data key="d0">1.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x43372356634781eea88d61bbdd7824cdce958882" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">481200.0</data>
+  <data key="d1">23</data>
+</edge>
+<edge source="0x43372356634781eea88d61bbdd7824cdce958882" target="0xdaef2be2a19ad331737d06545f85615b094554e9">
+  <data key="d0">9300.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xdaef2be2a19ad331737d06545f85615b094554e9" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">768159.031294</data>
+  <data key="d1">7</data>
+</edge>
+<edge source="0xdaef2be2a19ad331737d06545f85615b094554e9" target="0xdca4af75705dbb50f62437045aff9921947917d2">
+  <data key="d0">40000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x448861155279dbf833d041b963e3ac854599e319" target="0x375191b48ef5761e0c621b8e4a5374e964937dfd">
+  <data key="d0">200.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x448861155279dbf833d041b963e3ac854599e319" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">764289.807809</data>
+  <data key="d1">11</data>
+</edge>
+<edge source="0x448861155279dbf833d041b963e3ac854599e319" target="0xf2f6af4f27ec2dcf4072095ab804016e14cd5817">
+  <data key="d0">200.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xf2f6af4f27ec2dcf4072095ab804016e14cd5817" target="0x7cf93583951552553bc0d243a8582a3410ed2798">
+  <data key="d0">251.0</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0xf2f6af4f27ec2dcf4072095ab804016e14cd5817" target="0xc6dd722558dbfbd8fa780efcbe819ed8c6604b9f">
+  <data key="d0">55.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xf2f6af4f27ec2dcf4072095ab804016e14cd5817" target="0xdc03d611e5bcc9f1c87edb95edeb91671471804c">
+  <data key="d0">4700.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1" target="0x0418f8303054fb4321d5619cb53ad4e3febd966e">
+  <data key="d0">1400.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1" target="0x33e27ac64a453337cfcea8345c705a407c573a1b">
+  <data key="d0">500.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1" target="0x35bbbad2415fe5e39b12da9a316cdc80b022009b">
+  <data key="d0">5583.67</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1" target="0x7bc14171ccb0d3e6bac219ec6a76211826e28db4">
+  <data key="d0">574504.31</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1" target="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b">
+  <data key="d0">13.89</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1" target="0x955c9661bf6e010beff0ba896a49f715a8c8990f">
+  <data key="d0">40001.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1" target="0x9a3fa403a6666eef75f92f181fcf13f9c051914a">
+  <data key="d0">8000.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1" target="0x9aeb534c42b58b21673d5e03e9da14fbd15b2729">
+  <data key="d0">150.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1" target="0xb37aa8834f9baefc6fb3312f59df8ddf0348f1b1">
+  <data key="d0">2204.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1" target="0xbacd00c9080a82ded56f504ee8810af732b0ab35">
+  <data key="d0">287252.16</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">970347.12</data>
+  <data key="d1">41</data>
+</edge>
+<edge source="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1" target="0xc4086b708cd3a50880b7069add1a1a80000f4675">
+  <data key="d0">570.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1" target="0xd77596f6652d6ad3502b34e5a848a0f6b7340fa9">
+  <data key="d0">4378.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1" target="0xd8d5289c35124b5353f5a10a28b8cc29aec38935">
+  <data key="d0">10128.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1" target="0xdca4af75705dbb50f62437045aff9921947917d2">
+  <data key="d0">143206.331623</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1" target="0xe5a6766cc93f1ff94788afc82ebd0a3cdcda0a76">
+  <data key="d0">770.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b" target="0x25a74e4d0795b842a4e8e934620781e3c5f48b7c">
+  <data key="d0">100.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b" target="0x583e1ca6fa0b93201a771e09f223bfe4c8071d4b">
+  <data key="d0">3400.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b" target="0x7b259edf41df29db6916f9c0fdd672ddc334e4be">
+  <data key="d0">781891.0</data>
+  <data key="d1">12</data>
+</edge>
+<edge source="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b" target="0x9aeb534c42b58b21673d5e03e9da14fbd15b2729">
+  <data key="d0">150.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b" target="0xa4547804287f62310f2e14403b24222778c895a6">
+  <data key="d0">1221.0</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">36321.0</data>
+  <data key="d1">8</data>
+</edge>
+<edge source="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b" target="0xc851cd9bee7d262afd78674f861f9f576a12cd2a">
+  <data key="d0">111.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b" target="0xd0394bd0de8d901c3fde039a86bf08e6aa4a2532">
+  <data key="d0">111.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b" target="0xdca4af75705dbb50f62437045aff9921947917d2">
+  <data key="d0">373333.0</data>
+  <data key="d1">7</data>
+</edge>
+<edge source="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b" target="0xf0d5eb1cbe7350f1f896ade6c172e6700414c665">
+  <data key="d0">250.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b" target="0xf44076b9299b390a1f4bd5979d926ce989aeb009">
+  <data key="d0">86.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x955c9661bf6e010beff0ba896a49f715a8c8990f" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">150000.0</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0x9a3fa403a6666eef75f92f181fcf13f9c051914a" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">4500.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x9aeb534c42b58b21673d5e03e9da14fbd15b2729" target="0x614dc8d3542c12103d2c6a3553fd761e391d1546">
+  <data key="d0">2440.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xbacd00c9080a82ded56f504ee8810af732b0ab35" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">250000.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xbacd00c9080a82ded56f504ee8810af732b0ab35" target="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b">
+  <data key="d0">750.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xbacd00c9080a82ded56f504ee8810af732b0ab35" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">1365661.676599</data>
+  <data key="d1">74</data>
+</edge>
+<edge source="0xbacd00c9080a82ded56f504ee8810af732b0ab35" target="0xc6dd722558dbfbd8fa780efcbe819ed8c6604b9f">
+  <data key="d0">71.41</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xbacd00c9080a82ded56f504ee8810af732b0ab35" target="0xe5a6766cc93f1ff94788afc82ebd0a3cdcda0a76">
+  <data key="d0">770.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xdca4af75705dbb50f62437045aff9921947917d2" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">51000.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xdca4af75705dbb50f62437045aff9921947917d2" target="0x5188fa0e8a77e87bc6a58e6781fdfc4e165cc804">
+  <data key="d0">88666.187206</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0xdca4af75705dbb50f62437045aff9921947917d2" target="0x6d9fc316c3b8377060a44b852ba664adbfd59790">
+  <data key="d0">32610.561327000003</data>
+  <data key="d1">6</data>
+</edge>
+<edge source="0xdca4af75705dbb50f62437045aff9921947917d2" target="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b">
+  <data key="d0">272236.028898</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="0xdca4af75705dbb50f62437045aff9921947917d2" target="0x93fb8127a1b21a112b11af936361225df0563e4a">
+  <data key="d0">66614.838742</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xdca4af75705dbb50f62437045aff9921947917d2" target="0xdaef2be2a19ad331737d06545f85615b094554e9">
+  <data key="d0">40000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xdca4af75705dbb50f62437045aff9921947917d2" target="0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1">
+  <data key="d0">1000.41</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xdca4af75705dbb50f62437045aff9921947917d2" target="0xeb22f4735df6bd5d14e1b5fd10faefa7757d808a">
+  <data key="d0">4656.983219</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x53e55bc7cb3d67ad177c023ce891ad076a9d6177" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">192250.0</data>
+  <data key="d1">9</data>
+</edge>
+<edge source="0x54e2b86bc5ce72f6c39797f5e2aa734cbe0034fb" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">1320.48911</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x6139c42e48cf190e67a0a85d492413b499336b7a" target="0x1e1f17412069c0736adfaadf8ee7f46e5612c855">
+  <data key="d0">30020.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x6139c42e48cf190e67a0a85d492413b499336b7a" target="0x551e72eda42a5ab39d6d78239a1d9bbb5db6b0e0">
+  <data key="d0">10000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x6139c42e48cf190e67a0a85d492413b499336b7a" target="0x68b67b9578d5eab17663414f6919772882ea7cd7">
+  <data key="d0">15000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x6139c42e48cf190e67a0a85d492413b499336b7a" target="0x8f7a4b414417911e7e9bd738399874792cdbdb40">
+  <data key="d0">10000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x6139c42e48cf190e67a0a85d492413b499336b7a" target="0xb7606d0d3719c88f9b868a13015881af5222ccd7">
+  <data key="d0">50.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x6139c42e48cf190e67a0a85d492413b499336b7a" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">111290.264759</data>
+  <data key="d1">7</data>
+</edge>
+<edge source="0x6139c42e48cf190e67a0a85d492413b499336b7a" target="0xd3989ba133ab48b5b3a81e3dba9b37b5966a46d7">
+  <data key="d0">10000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x6139c42e48cf190e67a0a85d492413b499336b7a" target="0xe234959595e01dacd391a9502a6ad0edf4e3304a">
+  <data key="d0">35000.0</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="0x6139c42e48cf190e67a0a85d492413b499336b7a" target="0xe25b9180f5687aa85bd94ee309bb72a464320f1b">
+  <data key="d0">25000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x551e72eda42a5ab39d6d78239a1d9bbb5db6b0e0" target="0x6139c42e48cf190e67a0a85d492413b499336b7a">
+  <data key="d0">2500.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x551e72eda42a5ab39d6d78239a1d9bbb5db6b0e0" target="0xe25b9180f5687aa85bd94ee309bb72a464320f1b">
+  <data key="d0">25000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x8f7a4b414417911e7e9bd738399874792cdbdb40" target="0x37da37704ee0c147800918a0838846cde88d9e54">
+  <data key="d0">1000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x8f7a4b414417911e7e9bd738399874792cdbdb40" target="0x386cc4344f27de9eb038715221cec66e62d18323">
+  <data key="d0">1000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x8f7a4b414417911e7e9bd738399874792cdbdb40" target="0xbb29dc16e284e25bfecdce14fb69621224611b48">
+  <data key="d0">100.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x8f7a4b414417911e7e9bd738399874792cdbdb40" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">17529.934965</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0x8f7a4b414417911e7e9bd738399874792cdbdb40" target="0xc189a338d6718f84a3e2c00619945fded3c3d77a">
+  <data key="d0">2300.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x8f7a4b414417911e7e9bd738399874792cdbdb40" target="0xf01ac1aa9fef8eabc5e3c764747aabddaa90f231">
+  <data key="d0">200.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd3989ba133ab48b5b3a81e3dba9b37b5966a46d7" target="0x6139c42e48cf190e67a0a85d492413b499336b7a">
+  <data key="d0">24000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xe234959595e01dacd391a9502a6ad0edf4e3304a" target="0x6139c42e48cf190e67a0a85d492413b499336b7a">
+  <data key="d0">10000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xe25b9180f5687aa85bd94ee309bb72a464320f1b" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">26200.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xe25b9180f5687aa85bd94ee309bb72a464320f1b" target="0x4c8cdcdd4c92bf44e74a642254f7414de14de36f">
+  <data key="d0">500.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xe25b9180f5687aa85bd94ee309bb72a464320f1b" target="0x6575759174ad221bba9947bc3f18750ec769b198">
+  <data key="d0">3985.0</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0xe25b9180f5687aa85bd94ee309bb72a464320f1b" target="0xbacd00c9080a82ded56f504ee8810af732b0ab35">
+  <data key="d0">3159.5</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0xe25b9180f5687aa85bd94ee309bb72a464320f1b" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">535360.0</data>
+  <data key="d1">8</data>
+</edge>
+<edge source="0xe25b9180f5687aa85bd94ee309bb72a464320f1b" target="0xc6dd722558dbfbd8fa780efcbe819ed8c6604b9f">
+  <data key="d0">26370.49</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0xe25b9180f5687aa85bd94ee309bb72a464320f1b" target="0xf2f6af4f27ec2dcf4072095ab804016e14cd5817">
+  <data key="d0">3150.68</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0x614dc8d3542c12103d2c6a3553fd761e391d1546" target="0x08458f7e9d2858027de579e4c3ca305475496b6f">
+  <data key="d0">2593.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x614dc8d3542c12103d2c6a3553fd761e391d1546" target="0x14c32680ffc318892e0d019181e4161aa34cdf68">
+  <data key="d0">113072.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x614dc8d3542c12103d2c6a3553fd761e391d1546" target="0x30e443872ddf63b2908a49f92cd690c304a55102">
+  <data key="d0">100.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x614dc8d3542c12103d2c6a3553fd761e391d1546" target="0x449c7483aade15b5c4772fab7becc60a1c20879e">
+  <data key="d0">1000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x614dc8d3542c12103d2c6a3553fd761e391d1546" target="0x9aeb534c42b58b21673d5e03e9da14fbd15b2729">
+  <data key="d0">2743.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x614dc8d3542c12103d2c6a3553fd761e391d1546" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">725677.0</data>
+  <data key="d1">31</data>
+</edge>
+<edge source="0x614dc8d3542c12103d2c6a3553fd761e391d1546" target="0xdd225a03cd7ed89e3931906c67c75ab31cf89ef1">
+  <data key="d0">5993.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x614dc8d3542c12103d2c6a3553fd761e391d1546" target="0xe5a6766cc93f1ff94788afc82ebd0a3cdcda0a76">
+  <data key="d0">770.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x614dc8d3542c12103d2c6a3553fd761e391d1546" target="0xf3e8486c74462f2a1c1cc405eda631d0d80d5f3f">
+  <data key="d0">200.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x14c32680ffc318892e0d019181e4161aa34cdf68" target="0x614dc8d3542c12103d2c6a3553fd761e391d1546">
+  <data key="d0">10000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x14c32680ffc318892e0d019181e4161aa34cdf68" target="0xbb9c165825e9f233d1f611b50b193fe94513072b">
+  <data key="d0">753.66</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x14c32680ffc318892e0d019181e4161aa34cdf68" target="0xcb59ea1babf3b26ea50088057e427ab0ed8f0a22">
+  <data key="d0">50000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xdd225a03cd7ed89e3931906c67c75ab31cf89ef1" target="0x614dc8d3542c12103d2c6a3553fd761e391d1546">
+  <data key="d0">100000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x69aa9fa621403e3a121b29ad77d32ba9eb5e8847" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">1741527.017655</data>
+  <data key="d1">15</data>
+</edge>
+<edge source="0x6a8328b1ae11569f7b27600073558879885e4c59" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">43584.0</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0x6a8328b1ae11569f7b27600073558879885e4c59" target="0xdca4af75705dbb50f62437045aff9921947917d2">
+  <data key="d0">9606.298098</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x6bab41a0dc40d6dd4c1a915b8c01969479fd1292" target="0x029c862cfa39215ec3001013294e580fec540ad8">
+  <data key="d0">250.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x6bab41a0dc40d6dd4c1a915b8c01969479fd1292" target="0x6e131d6c61216b4a5ec571db332ad3226e7fa801">
+  <data key="d0">80000.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x6bab41a0dc40d6dd4c1a915b8c01969479fd1292" target="0x9aeb534c42b58b21673d5e03e9da14fbd15b2729">
+  <data key="d0">150.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x6bab41a0dc40d6dd4c1a915b8c01969479fd1292" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">188239.0</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0x6575759174ad221bba9947bc3f18750ec769b198" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">500000.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x6575759174ad221bba9947bc3f18750ec769b198" target="0x9d84ce0306f8551e02efef1680475fc0f1dc1344">
+  <data key="d0">4000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x9a97759ce181d103b49bb7f77640a83afe3d3c43" target="0x6d9fc316c3b8377060a44b852ba664adbfd59790">
+  <data key="d0">1380.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x9a97759ce181d103b49bb7f77640a83afe3d3c43" target="0x8f7a4b414417911e7e9bd738399874792cdbdb40">
+  <data key="d0">5000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x776f7fb93be970d678068e00674b54af0ff10478" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">18299.2011</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991" target="0x06dc51826bc524d9a83770e7de9dd7e005b04524">
+  <data key="d0">200000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">600000.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991" target="0xc9b6227a295985591fe576ff2e054267a78a9b6a">
+  <data key="d0">10000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991" target="0xe5a6766cc93f1ff94788afc82ebd0a3cdcda0a76">
+  <data key="d0">770.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xc9b6227a295985591fe576ff2e054267a78a9b6a" target="0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991">
+  <data key="d0">10000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x7b259edf41df29db6916f9c0fdd672ddc334e4be" target="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b">
+  <data key="d0">753333.0</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0xc851cd9bee7d262afd78674f861f9f576a12cd2a" target="0x08458f7e9d2858027de579e4c3ca305475496b6f">
+  <data key="d0">6560.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xc851cd9bee7d262afd78674f861f9f576a12cd2a" target="0x0e4434c1e3d4b252769f67d32c25854c1c9ec2ef">
+  <data key="d0">124121.0</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0xc851cd9bee7d262afd78674f861f9f576a12cd2a" target="0x1cc16713196d456f86fa9c7387dd326a7f73b8df">
+  <data key="d0">50000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xc851cd9bee7d262afd78674f861f9f576a12cd2a" target="0x401ee31e9ebf9ab9f6315cd95faca5f950436fc9">
+  <data key="d0">350.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xc851cd9bee7d262afd78674f861f9f576a12cd2a" target="0x614dc8d3542c12103d2c6a3553fd761e391d1546">
+  <data key="d0">100.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xc851cd9bee7d262afd78674f861f9f576a12cd2a" target="0x9aeb534c42b58b21673d5e03e9da14fbd15b2729">
+  <data key="d0">150.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x7cf93583951552553bc0d243a8582a3410ed2798" target="0x5188fa0e8a77e87bc6a58e6781fdfc4e165cc804">
+  <data key="d0">1525.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x7cf93583951552553bc0d243a8582a3410ed2798" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">427000.0</data>
+  <data key="d1">6</data>
+</edge>
+<edge source="0x7cf93583951552553bc0d243a8582a3410ed2798" target="0xe25b9180f5687aa85bd94ee309bb72a464320f1b">
+  <data key="d0">62.0</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0x5188fa0e8a77e87bc6a58e6781fdfc4e165cc804" target="0x0562e01b3c3e65bb93bf0de32f02cec238a79d66">
+  <data key="d0">5000.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x5188fa0e8a77e87bc6a58e6781fdfc4e165cc804" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">11000.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x5188fa0e8a77e87bc6a58e6781fdfc4e165cc804" target="0xdca4af75705dbb50f62437045aff9921947917d2">
+  <data key="d0">80977.471078</data>
+  <data key="d1">8</data>
+</edge>
+<edge source="0x7e97bd09c2ccc632fb728d91b7c37d8ec5f34d54" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">1000100.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x8b4bca1d794779e66e023d44391b2a86c5ab541b" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">18421.0</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0x8b4bca1d794779e66e023d44391b2a86c5ab541b" target="0xdca4af75705dbb50f62437045aff9921947917d2">
+  <data key="d0">5000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x8f42ae0a01c0383c7ca8bd060b86a645ee74b88f" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">141659.71528499998</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x8f42ae0a01c0383c7ca8bd060b86a645ee74b88f" target="0xdca4af75705dbb50f62437045aff9921947917d2">
+  <data key="d0">12518.82</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x93fb8127a1b21a112b11af936361225df0563e4a" target="0xdca4af75705dbb50f62437045aff9921947917d2">
+  <data key="d0">110000.0</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="0x96489abcb9f583d6835c8ef95ffc923d05a86825" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">3545000.0</data>
+  <data key="d1">13</data>
+</edge>
+<edge source="0x9c2617462567859fcf5764e03b9a687ebca274bc" target="0x0260366a9add43c25d4f4d35d2210526c6750d88">
+  <data key="d0">861.0</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0x9c2617462567859fcf5764e03b9a687ebca274bc" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">217201.501739</data>
+  <data key="d1">16</data>
+</edge>
+<edge source="0x0260366a9add43c25d4f4d35d2210526c6750d88" target="0x9c2617462567859fcf5764e03b9a687ebca274bc">
+  <data key="d0">1250.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x9efda3d6354152901fc4706c3b1a9ce50b45ad00" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">110679.0</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73" target="0x52b74441def3510e1839eadac7875423c0b54597">
+  <data key="d0">500000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73" target="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b">
+  <data key="d0">513.89</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73" target="0xb8e4a4551d2c6b080ae5a523ff1f0cae8e922dae">
+  <data key="d0">5000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">840019.377725</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73" target="0xd04b865de910bf80e346b1cc4e4f37e61e389972">
+  <data key="d0">66667.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xb8e4a4551d2c6b080ae5a523ff1f0cae8e922dae" target="0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73">
+  <data key="d0">5000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xc6dd722558dbfbd8fa780efcbe819ed8c6604b9f" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">66712.598801</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0xc8a6d6b4f5d66a1211ed678edb828acca25c5d97" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">3463.471279</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd5ccdf772f795547e299de57f47966e24de8dea4" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">230250.0</data>
+  <data key="d1">17</data>
+</edge>
+<edge source="0xd7eee5e918dc59fa32386a4ad8a89655946e9597" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">43206.646315</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0xdbade4c82fb72780a0db9a38f821d8671aba9c95" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">140183.933689</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5" target="0x45166d6dee918955495ef5e493742f47d6e404de">
+  <data key="d0">619.615304</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5" target="0x7923d4ff806b231b3276592391de5d0953356c0b">
+  <data key="d0">407962.68686099997</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5" target="0x944c0a0d5272f0f9a565dd0c9a270e16d5a39e26">
+  <data key="d0">1208681.9813660001</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">3000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x7923d4ff806b231b3276592391de5d0953356c0b" target="0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5">
+  <data key="d0">473466.78353500005</data>
+  <data key="d1">7</data>
+</edge>
+<edge source="0x944c0a0d5272f0f9a565dd0c9a270e16d5a39e26" target="0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5">
+  <data key="d0">454461.19686200004</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0xdde15ebd95330ce69136dc0ccd810d22382e02c5" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">35918.910156</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xfc2f4f50ce2f6045d35558a5e2d8d4b2ac6610c7" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">81500.0</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0x03c8118da338a9dafb2bae9a4e89055203a30e01" target="0xc8ab97a9089a9ff7e6ef0688e6e591a066946418">
+  <data key="d0">4300.0</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="0xc8ab97a9089a9ff7e6ef0688e6e591a066946418" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">430100.0</data>
+  <data key="d1">6</data>
+</edge>
+<edge source="0x0c6b6a9da69f3ca578d4b01d2cc1714ec9b97ffb" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">1.23</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x0e4434c1e3d4b252769f67d32c25854c1c9ec2ef" target="0xc851cd9bee7d262afd78674f861f9f576a12cd2a">
+  <data key="d0">396910.0</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0x1cc16713196d456f86fa9c7387dd326a7f73b8df" target="0xc851cd9bee7d262afd78674f861f9f576a12cd2a">
+  <data key="d0">145075.0</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0x12d6cccfc7470a3f4bafc53599a4779cbf2cf2a8" target="0xebc6257296364265b17cb6e2d605c66d14fdd45f">
+  <data key="d0">85000.0</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0xebc6257296364265b17cb6e2d605c66d14fdd45f" target="0x12d6cccfc7470a3f4bafc53599a4779cbf2cf2a8">
+  <data key="d0">85000.0</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0x13eefade4507b6fc929639ae3f9d7b925cfd79b4" target="0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5">
+  <data key="d0">7072.98032</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xcb59ea1babf3b26ea50088057e427ab0ed8f0a22" target="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b">
+  <data key="d0">125.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xcb59ea1babf3b26ea50088057e427ab0ed8f0a22" target="0xdd225a03cd7ed89e3931906c67c75ab31cf89ef1">
+  <data key="d0">50028.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x1c0f3e4c90a48e4dd93d0abcdf719a5a5f1599d0" target="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b">
+  <data key="d0">1.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x1dd197fa8bb4d6887ffecf89b75171aea7d7a156" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">11453.564834</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="0x23d81ba9371e576015c1e562db09c689f56b0288" target="0xe25b9180f5687aa85bd94ee309bb72a464320f1b">
+  <data key="d0">1410.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x2974bd0059e48f215c391882976e0f1b4c8c9c23" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">16680.162654</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0x32658d61f095d603fa7f8ea57799d392131334c3" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">24875.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x33e073440d9ac43e2e190e910f0b02b2fbd17d46" target="0xcf19c420814435ffb1c459588208ed23a7ee6402">
+  <data key="d0">1387.106155</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x38692cead875c0cd862052efbff8f6add7310e3c" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">68110.0</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0x386cc4344f27de9eb038715221cec66e62d18323" target="0x6139c42e48cf190e67a0a85d492413b499336b7a">
+  <data key="d0">1000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x386cc4344f27de9eb038715221cec66e62d18323" target="0x8f7a4b414417911e7e9bd738399874792cdbdb40">
+  <data key="d0">500.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x38f50488b14a87769e0c5cd6c514b6c2e8ec6824" target="0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1">
+  <data key="d0">374.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1" target="0x38f50488b14a87769e0c5cd6c514b6c2e8ec6824">
+  <data key="d0">2047.0</data>
+  <data key="d1">10</data>
+</edge>
+<edge source="0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1" target="0x9453a389c73df7991249d9f2c6e2c854157b1a48">
+  <data key="d0">20.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1" target="0x9a3fa403a6666eef75f92f181fcf13f9c051914a">
+  <data key="d0">523.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">147900.0</data>
+  <data key="d1">18</data>
+</edge>
+<edge source="0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1" target="0xc3ff873a442f65dd9a55ee1bd6a83060957c9708">
+  <data key="d0">50.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1" target="0xdca4af75705dbb50f62437045aff9921947917d2">
+  <data key="d0">1000.41</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x41670eaf54980d4a52fd0985d6eb78854d0ac504" target="0x6bab41a0dc40d6dd4c1a915b8c01969479fd1292">
+  <data key="d0">300200.0</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0xeb22f4735df6bd5d14e1b5fd10faefa7757d808a" target="0x9453a389c73df7991249d9f2c6e2c854157b1a48">
+  <data key="d0">100.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xeb22f4735df6bd5d14e1b5fd10faefa7757d808a" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">100015.0</data>
+  <data key="d1">6</data>
+</edge>
+<edge source="0xeb22f4735df6bd5d14e1b5fd10faefa7757d808a" target="0xdca4af75705dbb50f62437045aff9921947917d2">
+  <data key="d0">5000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x45b39e1f71e47fd4afe4b988ffad690b644735bc" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">1629.95639</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x477fcd39c75956843c18083caa4c8c61f9ca6c45" target="0xdd225a03cd7ed89e3931906c67c75ab31cf89ef1">
+  <data key="d0">25900.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x525e4f0520927d26b90e8cf922b626f655c3c78d" target="0x614dc8d3542c12103d2c6a3553fd761e391d1546">
+  <data key="d0">0.5</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x54b56146656e7eef9da02b3a030c18e06e924b31" target="0x1e1f17412069c0736adfaadf8ee7f46e5612c855">
+  <data key="d0">64.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x55f0ef535c17bf453f1780ca6699ca4bb39aad23" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">1.23</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x5d059ab2724308b565e23c1643e6c8e90ad7599a" target="0x6bab41a0dc40d6dd4c1a915b8c01969479fd1292">
+  <data key="d0">97300.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x5e4e809c464a2bc2cb4c9f54752d1d69821c32a5" target="0x5188fa0e8a77e87bc6a58e6781fdfc4e165cc804">
+  <data key="d0">20000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x608532073e9727f4b442204ebf6fc6de3b5c4219" target="0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5">
+  <data key="d0">1471.05</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x60a92c8620846d81f5ea17b0564e0d4b7c545a71" target="0x6d9fc316c3b8377060a44b852ba664adbfd59790">
+  <data key="d0">100.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x614ef98a8be021de3a974942b2fb98794ff34f1b" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">15000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x9d84ce0306f8551e02efef1680475fc0f1dc1344" target="0x1c144e30f405a25f991cbd8baa15d40599090869">
+  <data key="d0">500.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x9d84ce0306f8551e02efef1680475fc0f1dc1344" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">412975.0</data>
+  <data key="d1">7</data>
+</edge>
+<edge source="0x9d84ce0306f8551e02efef1680475fc0f1dc1344" target="0xdc03d611e5bcc9f1c87edb95edeb91671471804c">
+  <data key="d0">4170.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x6ffb4354cbe6e0f9989e3b55564ec5fb8646a834" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">777.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x6ffb4354cbe6e0f9989e3b55564ec5fb8646a834" target="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b">
+  <data key="d0">777.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x7523cafcee7bcf2db9a79d80e0d79b88a9a54c4c" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">1254.97</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0x7744bfd749a70020d16a1fcbac1d064761c9999e" target="0x6575759174ad221bba9947bc3f18750ec769b198">
+  <data key="d0">182093.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x77c344e1715c35d1424881c14e5a9f6911dd00c8" target="0x96489abcb9f583d6835c8ef95ffc923d05a86825">
+  <data key="d0">1.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x7a340436166830a5dbfeed44228c56eca46b5ed3" target="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b">
+  <data key="d0">0.01</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x7c4643f6c24296e877917a67f3de5c92c633bc6c" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">30001.23</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x7ebf59f3a63072d03095c93640c6fd5c90ceafe2" target="0xdaef2be2a19ad331737d06545f85615b094554e9">
+  <data key="d0">38118.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">19400.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x88c4919de76e526d55a32c1f8afb439dd1f1129a" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">20000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x8993bd462cc4a367f921dc67b52f03e6eb3a9eb5" target="0xbacd00c9080a82ded56f504ee8810af732b0ab35">
+  <data key="d0">500.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x95074f700f93bdf6e62fc965e0832064c0877b04" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">100.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x957a8396601e606130d63d7c5adec1e4dd58d6a6" target="0x614dc8d3542c12103d2c6a3553fd761e391d1546">
+  <data key="d0">3000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x99518fa0d201e7542ea2b852809da5a5c8d811bd" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">90000.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x9b979a065641e8cfde3022a30ed2d9415cf55e12" target="0x1e1f17412069c0736adfaadf8ee7f46e5612c855">
+  <data key="d0">70.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x9c9fe391bf7ba8701bc97c9e561a46cbce11e2d2" target="0x614dc8d3542c12103d2c6a3553fd761e391d1546">
+  <data key="d0">1717.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0x9dcb4e22cfffe401891895c45f595ebdcb07469f" target="0xe25b9180f5687aa85bd94ee309bb72a464320f1b">
+  <data key="d0">134674.340935</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0x9f3d8008e0cfdd4c997106deaa1416ef5abf935e" target="0xd5ccdf772f795547e299de57f47966e24de8dea4">
+  <data key="d0">7.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xa3a39a3746dbd55f3a33ae38bd27ae2804c2c2f9" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">90000.0</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0xaaf63b10e1c47187c51eefe3b99c88e64dbb0be1" target="0xd5ccdf772f795547e299de57f47966e24de8dea4">
+  <data key="d0">490.5</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9" target="0x2d99e29c4f066ba32098c65e4c7454b277d94ca3">
+  <data key="d0">470342.0</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">300000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xae7c98235d5dc797edfa3d3af2e0334238a4487e" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">3479.818744</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xaffcd463db3ce9bafdcd4d74abe3f9f937a5ddce" target="0xbad457dc633bbb7b6cbe09dd5867a5e8e597acd7">
+  <data key="d0">0.69</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xb10047d6a254b2ebb306d7a7d13bf59171ab6461" target="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b">
+  <data key="d0">125.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xb73812cce6f5cb7ada40a134b4b16aefbdbb9472" target="0xc8ab97a9089a9ff7e6ef0688e6e591a066946418">
+  <data key="d0">360400.0</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0xbfe26bf8a5141d1a156e5bc4dc853dee60dbfdb4" target="0x35bbbad2415fe5e39b12da9a316cdc80b022009b">
+  <data key="d0">35900.0</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0xc02147dee42356b7a4edbb1c35ac4ffa95f61fa8" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">30000.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xc11cb040591b24de8d8d31939b16c96b04f74139" target="0x6bab41a0dc40d6dd4c1a915b8c01969479fd1292">
+  <data key="d0">0.1</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xc4d1a863e9cc45d02ba22d3a1ae9ba7822018ce8" target="0x2c335066fe58fe9237c3d3dc7b275c2a034a0563">
+  <data key="d0">1.23</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xc4d1a863e9cc45d02ba22d3a1ae9ba7822018ce8" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">3590055.7</data>
+  <data key="d1">10</data>
+</edge>
+<edge source="0xc9751b5f25e1ecd88ec4630d19422b58d0562c68" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">304.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xcc588241676899adcacd6703290258dcd771ecfb" target="0x6d9fc316c3b8377060a44b852ba664adbfd59790">
+  <data key="d0">0.08</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xcdbfdac42aeac5837d105e255c1131e7bf751926" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">31.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd043d8bdca05c5f9ecdf75df3c6681ac74ca7e85" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">4000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x08458f7e9d2858027de579e4c3ca305475496b6f">
+  <data key="d0">392.51</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x122cdd9db64fd8dc3ebab813218e3effe21f821f">
+  <data key="d0">46816.23</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x12d6cccfc7470a3f4bafc53599a4779cbf2cf2a8">
+  <data key="d0">370.09000000000003</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x13ff290849c6fef06efde63dfe643e62767716a3">
+  <data key="d0">23.16</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x1cfc260bfa2b5ae89377863180ca3b4f5c862111">
+  <data key="d0">122.24000000000001</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x21ffd2b7a212a6f277ed3eca1a9f8efcbca90d71">
+  <data key="d0">393.01</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x35bbbad2415fe5e39b12da9a316cdc80b022009b">
+  <data key="d0">360.1</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x3825180182703613f3619d4611890c5b655504e8">
+  <data key="d0">139.44</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x40604cb1f958c03bea0b18aa43e4cb0d62f33ec3">
+  <data key="d0">43883.9</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x43372356634781eea88d61bbdd7824cdce958882">
+  <data key="d0">18.21</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x448861155279dbf833d041b963e3ac854599e319">
+  <data key="d0">376.84999999999997</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">0.19</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x5188fa0e8a77e87bc6a58e6781fdfc4e165cc804">
+  <data key="d0">1941.46</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x5a218c7ad04135830a45c41aaed7294df7809318">
+  <data key="d0">1073.1599999999999</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x5e5175106a7dbbd92b10f1b56458fc8c1bdd42ce">
+  <data key="d0">375.29</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x68c24bf4a8ad4d79a6fe4b8eec6f93a02dfd1711">
+  <data key="d0">377.33</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x6ffb4354cbe6e0f9989e3b55564ec5fb8646a834">
+  <data key="d0">152681.21</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b">
+  <data key="d0">4971.42</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x7cf93583951552553bc0d243a8582a3410ed2798">
+  <data key="d0">471.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x7e30c3a56d89edac738d788dd218a9e64fb91e50">
+  <data key="d0">6207.07</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x94eb0ee9ff35f5b14f8d3c3be3967e9deba837e6">
+  <data key="d0">18277.76</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0x9efda3d6354152901fc4706c3b1a9ce50b45ad00">
+  <data key="d0">357.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0xb10047d6a254b2ebb306d7a7d13bf59171ab6461">
+  <data key="d0">19.7</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0xc02147dee42356b7a4edbb1c35ac4ffa95f61fa8">
+  <data key="d0">2840.32</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0xc8ab97a9089a9ff7e6ef0688e6e591a066946418">
+  <data key="d0">695.57</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0xc97b0b2a2547bb3ed57167092ef8a6e816c347e5">
+  <data key="d0">125.03</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0xd5ccdf772f795547e299de57f47966e24de8dea4">
+  <data key="d0">53.15</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5">
+  <data key="d0">73.15</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0xeb22f4735df6bd5d14e1b5fd10faefa7757d808a">
+  <data key="d0">27.25</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd152f549545093347a162dce210e7293f1452150" target="0xecb14ac6e9ca447ce2f2912e6217b43d7b655da3">
+  <data key="d0">22.46</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xd1acd3925d895de9aec98ff95f3a30c5279d08d5" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">467175.02675</data>
+  <data key="d1">10</data>
+</edge>
+<edge source="0xd1c769317bd15de7768a70d0214cf0bbcc531d2b" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">26425.0</data>
+  <data key="d1">11</data>
+</edge>
+<edge source="0xd5196bdf50199e195c58a6aff2114cc0e455932c" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">30316.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xdaa6a2cd4ba545befb3dbdc25d2b444c46873e62" target="0x6a8328b1ae11569f7b27600073558879885e4c59">
+  <data key="d0">23.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xed107a85a4585a381e48c7f7ca4144909e7dd2e5" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">1050000.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xf1149da31539d059bd6b87fdddc34d92352e8003" target="0xdde15ebd95330ce69136dc0ccd810d22382e02c5">
+  <data key="d0">1.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xf1f9a438f2697381b4ac8eb283d6f4dd772d1245" target="0x614dc8d3542c12103d2c6a3553fd761e391d1546">
+  <data key="d0">82.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xf1f9a438f2697381b4ac8eb283d6f4dd772d1245" target="0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991">
+  <data key="d0">82.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xf1f9a438f2697381b4ac8eb283d6f4dd772d1245" target="0xcb59ea1babf3b26ea50088057e427ab0ed8f0a22">
+  <data key="d0">82.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xf2507f0c47223def84aedfb6a81d83a3b43187cb" target="0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1">
+  <data key="d0">1.23</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222" target="0x0a854897a06d4999e5b2dde5693609f1428ffe9d">
+  <data key="d0">25055.447169</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="0xf68a281980f8c13828e84e147e3822381d6e5b1b" target="0x43372356634781eea88d61bbdd7824cdce958882">
+  <data key="d0">15300.0</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="0xf70da97812cb96acdf810712aa562db8dfa3dbef" target="0x0a854897a06d4999e5b2dde5693609f1428ffe9d">
+  <data key="d0">344574.90915400005</data>
+  <data key="d1">12</data>
+</edge>
+<edge source="0xf70da97812cb96acdf810712aa562db8dfa3dbef" target="0x24c8cf69a0e0a17eee21f69d29752bfa32e823e1">
+  <data key="d0">577762.166277</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xf70da97812cb96acdf810712aa562db8dfa3dbef" target="0x8b4bca1d794779e66e023d44391b2a86c5ab541b">
+  <data key="d0">4.80662</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xf70da97812cb96acdf810712aa562db8dfa3dbef" target="0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73">
+  <data key="d0">600019.373566</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xf70da97812cb96acdf810712aa562db8dfa3dbef" target="0xbad457dc633bbb7b6cbe09dd5867a5e8e597acd7">
+  <data key="d0">117976.396666</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xf916c360cf539d1da45aebbb057e2a5ea8244a5f" target="0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73">
+  <data key="d0">140.4</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xfa5f246bb1dbfe039dc7f4d3eede0d9808a86bfe" target="0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5">
+  <data key="d0">2395.874342</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xfd22b8843ae03a33a8a4c5e39ef1e5ff33ebad91" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">47507.0</data>
+  <data key="d1">8</data>
+</edge>
+<edge source="0xff7ca9cd180d33119e653e3eb50555a3e2ccb233" target="0x8f7a4b414417911e7e9bd738399874792cdbdb40">
+  <data key="d0">1000.0</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0xfffadf38a520cd5a0035ff52d7fceb436a08864b" target="0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb">
+  <data key="d0">80016.422188</data>
+  <data key="d1">2</data>
+</edge>
+</graph></graphml>
