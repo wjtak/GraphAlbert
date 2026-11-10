@@ -27,21 +27,29 @@ Using only public data, the notebook:
 
 | | |
 |---|---|
-| Markets analysed | 5 largest Iran markets resolved Jan–Apr 2026 (397 M$ wagered) |
+| Markets scanned | 1,080 closed events, 2,233 Iran-related markets, 1,131 paid out between Jan and Apr 2026 |
+| Markets analysed | The 5 largest, 397 M$ wagered |
 | Trades / wallets | 926,658 trades by 82,596 wallets |
-| Winners | 150 wallets with ≥ 1,000 $ profit, 16.3 M$ in total |
-| Money-flow graph | 220 wallets, 332 directed edges, density 0.0069 |
-| Connectivity | largest weak component = 97.3% of wallets; 170 strong components |
-| Distances | diameter 6, radius 3, average shortest path 3.25 |
-| Communities | 14 Louvain communities, modularity 0.61 |
-| Robustness | removing 4 wallets (top 2% by betweenness) cuts the largest component from 97% to 47% |
+| Winners | 150 wallets with ≥ 1,000 $ profit, 16.3 M$ in total; the top 10 capture 19.7% of all profits |
+| Money flows | 1,185 of 55,291 activity rows (about 2%) linked to a counterparty |
+| Money-flow graph | 214 wallets, 326 directed edges (47 winners), density 0.0072, 38.4 M$ of transfers |
+| Connectivity | 2 weak components, the largest holding 99.1% of wallets; 169 strong components, 6 of them money loops |
+| Distances | diameter 7, radius 4, average shortest path 3.26 (largest component) |
+| Local structure | average clustering 0.047, transitivity 0.029 |
+| Spectrum | Fiedler value 0.093 (normalised Laplacian, largest component) |
+| Communities | Louvain: 10 communities, modularity 0.59, stable over 10 seeds (mean NMI 0.96); label propagation: 15 communities, modularity 0.36; NMI between the two 0.56 |
+| Bridges | 153 of 293 undirected edges disconnect the graph when removed |
 
 **Main findings**
 
-- The graph is sparse, heavy-tailed and modular, held together by a few hubs. The most central wallet is an **exit point** (exchange or bridge) receiving 26.8 M$ from 69 wallets.
-- **60 of 150 winners** were funded less than a week before their first Iran bet, 20 of them less than one hour before.
-- **15 high-score winners** hold 26% of all winners’ profit.
-- One strong cluster: **three winners earning 1.27 M$** were funded by a single wallet and show synchronised flows (two of them funded and emptied within the same 25 seconds).
+- The graph is sparse, heavy-tailed and modular, held together by a few hubs. The most central wallet, `0xc011…2dfb`, is in the top 10 of all five centrality measures but only receives money (68 incoming edges, none outgoing): an **exit point** such as an exchange or a bridge.
+- Centrality and profit are **not linearly correlated** (Pearson not significant), but they are **moderately rank-correlated** (Spearman 0.21 to 0.42, all significant, on 140 wallets with a known profit): better-connected wallets tend to rank higher in profit, without big winners being the most central.
+- **60 of 150 winners** were first funded less than a week before their first Iran bet.
+- **15 winners score 4 or more** on the suspicion score and earned 4.3 M$, about 26% of all winners’ profit.
+- **Two clusters of linked winners** cover 24 of the 47 winners in the graph:
+  - a large, weak cluster of 20 winners (2.6 M$) held together by `0xd152…2150`, a wallet sending small amounts to many wallets (likely a service wallet);
+  - a strong cluster of **4 winners earning 2.0 M$**, funded by a single wallet, `0xf70d…dbef`, on the same Khamenei markets, which Louvain isolates as its own community (13 wallets).
+- No transfer to a related wallet was detected within 14 days after resolution.
 
 ## Data sources
 
@@ -67,6 +75,8 @@ The repository contains the main Jupyter notebook and this README. When the note
 | `redistribution_flows.csv` | Transfers sent by winners to related wallets after resolution |
 | `communities.csv` | Louvain communities and their winners |
 | `money_flow_graph.graphml` | The money-flow graph, readable by NetworkX or Gephi |
+| `polymarket_iran_graph.graphml` | The cleaned graph, saved right after construction |
+| `polymarket_cache_backup.zip` | A compressed copy of the download cache, to rerun the analysis without downloading again |
 
 ## Getting started
 
@@ -109,6 +119,7 @@ All parameters are in the configuration cell (section 0). The most important one
 | `TOP_N_WINNERS` | `150` | Number of winners kept |
 | `TRANSFER_SOURCE` | `"polymarket"` | `"polymarket"` (no key), `"etherscan"` (needs a key) or `"csv"` |
 | `ACTIVITY_WALLETS` | `500` | Wallets whose activity is downloaded |
+| `MAX_RECEIPTS` | `20,000` | Maximum number of transaction receipts checked on public Polygon nodes |
 | `HUB_DEGREE_THRESHOLD` | `200` | Addresses with more counterparties are treated as infrastructure |
 | `FRESH_WALLET_DAYS` | `7` | Threshold for a “fresh” wallet |
 | `LONGSHOT_PRICE`, `LONGSHOT_MIN_STAKE` | `0.35`, `2,500` | Definition of a long-shot win |
@@ -150,7 +161,7 @@ and rerun the notebook. Any market where some participants may know the outcome 
 
 ## Limitations
 
-- Only about **2%** of the activity rows could be linked to a counterparty, so the detected links are a lower bound.
+- Only **1,185 of 55,291** activity rows (about 2%) could be linked to a counterparty: at most 20,000 transaction receipts are checked (`MAX_RECEIPTS`), and most deposits and withdrawals go through exchanges or bridges, which hide the real sender. The detected links are therefore a lower bound.
 - Three of the five markets reached the 200,000-trade cap; the API returns the most recent trades first, so their oldest trades are missing.
 - With `HUB_DEGREE_THRESHOLD = 200`, some exchanges or bridges remain in the graph and can create spurious links on a graph of this size.
 - API fields and endpoints may change; check the [Polymarket documentation](https://docs.polymarket.com) if a request fails.
